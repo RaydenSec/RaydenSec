@@ -1,8 +1,25 @@
-- 👋 Hi, I’m Rayden Wang (Baskerville)
-- 👀 I’m interested in cybersecurity 
-- 🌱 I’m currently studying Computer Science at UNSW, learning computer networks in my own time and trying to learn CTFs from TryHackMe. 
-- 💞️ I’m looking to collaborate on fun programs to improve my coding and security knowledge. 
-- 📫 How to reach me -> raydenwang883@gmail.com
+# Hi, I'm Rayden Wang (Baskerville) 👋
+
+# Interests
+- Microsoft Entra and Defender Administration
+- Server and AD Administration   
+- Computer Networks
+- Firewall Configuration
+
+# Current Projects 🚀 
+- Doing internships at 2 MSPs
+- Managing the IT and Security of my family's retail and e-commerce business
+
+# Certifications
+- Cisco CCNA
+- CompTIA A+, Network+, Security+ 
+
+# Plans for my Github
+- Will start documenting projects and labs
+
+# Contact 📫
+- How to reach me -> raydenwang883@gmail.com
+
 
 <!---
 RaydenSec/RaydenSec is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
